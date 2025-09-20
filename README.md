@@ -1,2 +1,2 @@
-<h1>Mini game </h1>
+<h1>Mini game python</h1>
 <p>Just copy and past in visual studio code editor</p>
