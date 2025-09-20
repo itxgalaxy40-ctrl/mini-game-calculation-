@@ -1,2 +1,3 @@
 # mini-game-calculation-
-This game is for learning and entertainmentpurpose
+<h1>Mini game </h1>
+<p>Just copy and past in visual studio code editor</p>
