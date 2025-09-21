@@ -6,6 +6,6 @@
 <ol>
   <li>Install <b>Python 3</b> in your system</li>
   <li>Open <b>Visual Studio Code</b></li>
-  <li>Copy code from <code>main.py</code> and paste in VS Code</li>
+  <li>Copy code from <code>game code</code> and paste in VS Code</li>
   <li>Run program using terminal:</li>
 </ol>
